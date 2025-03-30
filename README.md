@@ -2,7 +2,13 @@
 
 위상 보존 디노이징(Phase Preserve Denoising) 알고리즘을 구현한 GUI 애플리케이션입니다. 이 애플리케이션은 이미지 노이즈 제거 방법을 시각적으로 비교할 수 있습니다.
 
-![PhasePreserveDenoising 예시](https://github.com/bemoregt/PhasePreserveDenoising_GUI/blob/main/examples/example.png)
+## 결과 예시
+
+### 예시 1
+![PhasePreserveDenoising 예시 1](https://github.com/bemoregt/PhasePreserveDenoising_GUI/blob/main/aaa.png)
+
+### 예시 2
+![PhasePreserveDenoising 예시 2](https://github.com/bemoregt/PhasePreserveDenoising_GUI/blob/main/bbb.png)
 
 ## 주요 기능
 
